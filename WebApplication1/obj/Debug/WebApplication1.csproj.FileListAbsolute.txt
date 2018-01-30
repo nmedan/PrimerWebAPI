@@ -1,2 +1,0 @@
-C:\Users\Nemanja\source\repos\PripremaTest1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\Users\Nemanja\source\repos\PripremaTest1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
